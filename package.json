@@ -1,0 +1,26 @@
+{
+  "name": "tokens",
+  "version": "1.0.0",
+  "description": "# Librerias npm i express -S npm i -S body-parser npm i -D nodemon",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgleal97/tokens.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sgleal97/tokens/issues"
+  },
+  "homepage": "https://github.com/sgleal97/tokens#readme"
+}
